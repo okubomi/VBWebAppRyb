@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
         <div>
             Aフォーム
+            <asp:Button ID="Button1" runat="server" Text="Button" />
         </div>
     </form>
 </body>
