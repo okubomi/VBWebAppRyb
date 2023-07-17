@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="WebForm2.aspx.vb" Inherits="VBWebAppRyb.WebForm2" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="WebForm3.aspx.vb" Inherits="VBWebAppRyb.WebForm3" %>
 
 <!DOCTYPE html>
 
@@ -10,9 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><asp:Button ID="Button1" runat="server" Text="V2" />
-            <br />
-         
+            <h1>WebForm 3</h1>
         </div>
     </form>
 </body>
