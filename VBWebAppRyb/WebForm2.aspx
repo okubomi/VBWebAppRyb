@@ -25,6 +25,7 @@
         <br />
         ファイルを指定：
         <asp:FileUpload ID="FileUpload1" runat="server" />
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     </form>
 </body>
 </html>
