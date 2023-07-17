@@ -22,6 +22,9 @@
         </div>
         <asp:CheckBox ID="CheckBox1" runat="server" Text="購入" />
         <asp:CheckBox ID="CheckBox2" runat="server" Text="カタログ送付" />
+        <br />
+        ファイルを指定：
+        <asp:FileUpload ID="FileUpload1" runat="server" />
     </form>
 </body>
 </html>
