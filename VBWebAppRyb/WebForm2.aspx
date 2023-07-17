@@ -11,6 +11,8 @@
     <form id="form1" runat="server">
         <div>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><asp:Button ID="Button1" runat="server" Text="V2" />
+            <br />
+            <asp:Button ID="Button2" runat="server" Text="Button" />
         </div>
     </form>
 </body>
