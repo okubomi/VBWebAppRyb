@@ -13,7 +13,7 @@
             Aフォーム
             <asp:Button ID="Button1" runat="server" Text="Button" />
             <asp:Button ID="Button2" runat="server" Text="Button" />
-            プッシュ
+            プッシュプッシュ
         </div>
     </form>
 </body>
