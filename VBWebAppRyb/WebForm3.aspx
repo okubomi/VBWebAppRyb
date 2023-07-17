@@ -10,7 +10,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>WebForm 3</h1>
+            <h1>WebForm 3
+            </h1>
+            <asp:Label ID="Label1" runat="server" Text="タイトル："></asp:Label>
         </div>
     </form>
 </body>
