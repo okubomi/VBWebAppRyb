@@ -18,7 +18,10 @@
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
             <asp:Button ID="Button2" runat="server" Text="Button" />
+
         </div>
+        <asp:CheckBox ID="CheckBox1" runat="server" Text="購入" />
+        <asp:CheckBox ID="CheckBox2" runat="server" Text="カタログ送付" />
     </form>
 </body>
 </html>
