@@ -2,11 +2,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -26,7 +22,10 @@
         ファイルを指定：
         <asp:FileUpload ID="FileUpload1" runat="server" />
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <asp:ListBox ID="ListBox1" runat="server">
+            <asp:ListItem>1</asp:ListItem>
+        </asp:ListBox>
     </form>
 </body>
 </html>
-</html>
+

@@ -75,4 +75,13 @@ Partial Public Class WebForm2
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents Calendar1 As Global.System.Web.UI.WebControls.Calendar
+
+    '''<summary>
+    '''ListBox1 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents ListBox1 As Global.System.Web.UI.WebControls.ListBox
 End Class
