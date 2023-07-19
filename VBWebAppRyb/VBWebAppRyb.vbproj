@@ -182,6 +182,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <Content Include="インボイス制度適格請求書のサンプル.docx" />
+    <Content Include="受講生所感記入例Ryoubi.xlsx" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
